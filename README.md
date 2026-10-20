@@ -4,10 +4,6 @@ A classical machine-learning study on the ISLR **Carseats** dataset: predicting
 whether a store sells more than 8 units per unit area (`High = Sales > 8`) and
 segmenting stores with K-Means.
 
-The repository is a small but complete project — a reusable package, an executed
-notebook that tells the story, a script that reproduces every number and figure,
-tests, and CI.
-
 ## Results
 
 70/30 train-test split, `random_state=0`, standardized features.
